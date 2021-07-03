@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LuanNguyen13421
+- 👀 I’m interested in C++, Python and Machine Learning
+- 🌱 I’m currently learning C++
+- 📫 How to reach me facebook.com/thanhluan13421
