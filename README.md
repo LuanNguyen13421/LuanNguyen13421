@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuanNguyen13421
 - 👀 I’m interested in Software and Game Development.
 - 🌱 I’m currently learning C++, C#, Unity and Python
-- 📫 How to reach me: facebook.com/thanhluan13421.
+- 📫 How to reach me: https://www.facebook.com/thanhluan13421/
 - 📧 Email: thanhluan13421@gmail.com
